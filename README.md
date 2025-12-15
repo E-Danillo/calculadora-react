@@ -5,7 +5,7 @@ Projeto ideal para estudo de **componentes, estado (`useState`) e manipulação 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🟩 Tecnologias Utilizadas
 
 - React 18
 - JavaScript (ES6+)
@@ -14,7 +14,7 @@ Projeto ideal para estudo de **componentes, estado (`useState`) e manipulação 
 
 ---
 
-## 💻 Funcionalidades
+## 🟩 Funcionalidades
 
 - Adição, subtração, multiplicação e divisão
 - Interface simples e responsiva
@@ -23,42 +23,29 @@ Projeto ideal para estudo de **componentes, estado (`useState`) e manipulação 
 
 ---
 
-## 🚀 Como Rodar Localmente
+## 🟩 Como Rodar Localmente
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/E-Danillo/calculadora-react.git
+    ```bash
+    git clone https://github.com/E-Danillo/calculadora-react.git
 
 2. Acesse a pasta do projeto:
-```bash
-cd calculadora-react
+    ```bash
+    cd calculadora-react
 
 3. Instale as dependências:
-```bash
-npm install
+    ```bash
+    npm install
 
 4. Rode o servidor de desenvolvimento:
-```bash
-npm run dev
+    ```bash
+    npm run dev
 
 5. Abra o navegador no endereço que aparecer no terminal:
-```bash
-(normalmente http://localhost:5173).
+    ```bash
+    (normalmente http://localhost:5173).
 
 Ou acesse: https://e-danillo.github.io/calculadora-react/
-
-📂 Estrutura do Projeto
-calculadora-react/
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── utils/
-│       ├── Calculadora.jsx
-│       └── styles.css
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
 
 📝 Contribuição
 
