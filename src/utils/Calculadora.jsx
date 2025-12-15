@@ -54,7 +54,7 @@ function Calculadora() {
 
     return (
         <div id="bloco-calculadora">
-            <h1>Calculadora em React</h1>
+            <h1>Calculadora <strong>React</strong></h1>
 
             <p>
                 {numero1} {operacao} {numero2}
