@@ -28,16 +28,24 @@ Projeto ideal para estudo de **componentes, estado (`useState`) e manipulação 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/E-Danillo/calculadora-react.git
-Acesse a pasta do projeto:
 
+2. Acesse a pasta do projeto:
+```bash
 cd calculadora-react
 
-
-Instale as dependências:
+3. Instale as dependências:
+```bash
 npm install
-Rode o servidor de desenvolvimento:
+
+4. Rode o servidor de desenvolvimento:
+```bash
 npm run dev
-Abra o navegador no endereço que aparecer no terminal (normalmente http://localhost:5173).
+
+5. Abra o navegador no endereço que aparecer no terminal:
+```bash
+(normalmente http://localhost:5173).
+
+Ou acesse: https://e-danillo.github.io/calculadora-react/
 
 📂 Estrutura do Projeto
 calculadora-react/
@@ -57,15 +65,11 @@ calculadora-react/
 Contribuições são bem-vindas!
 Para contribuir:
 
-Fork o projeto
-
-Crie uma branch para sua feature: git checkout -b minha-feature
-
-Commit suas alterações: git commit -m "Minha feature"
-
-Push para sua branch: git push origin minha-feature
-
-Abra um Pull Request
+- Fork o projeto
+- Crie uma branch para sua feature: git checkout -b minha-feature
+- Commit suas alterações: git commit -m "Minha feature"
+- Push para sua branch: git push origin minha-feature
+- Abra um Pull Request
 
 ⚖️ Licença
 
