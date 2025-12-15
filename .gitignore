@@ -1,0 +1,58 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Sistema Operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos do sistema
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Diretórios pessoais
+Documents/
+Downloads/
+Videos/
+Pictures/
+Desktop/
+AppData/
+Saved Games/
+
+# Arquivos temporários
+*.swp
+*.bak
+*.tmp
+*.temp
+*.orig
+
+# Ignorar binários
+*.exe
+*.dll
+*.so
+*.dmg
+*.bin
