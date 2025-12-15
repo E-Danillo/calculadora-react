@@ -47,7 +47,7 @@ Projeto ideal para estudo de **componentes, estado (`useState`) e manipulação 
 
 Ou acesse: https://e-danillo.github.io/calculadora-react/
 
-📝 Contribuição
+## 🟩 Contribuição
 
 Contribuições são bem-vindas!
 Para contribuir:
@@ -58,6 +58,6 @@ Para contribuir:
 - Push para sua branch: git push origin minha-feature
 - Abra um Pull Request
 
-⚖️ Licença
+## 🟩 Licença
 
 Este projeto está sob a licença MIT.
